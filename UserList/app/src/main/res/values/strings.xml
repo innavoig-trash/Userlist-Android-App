@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">User List</string>
+    <string name="title_activity_bottom_main">BottomMainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="first_onboard_text">Connect better with UserList. Manage all your contacts easily, whether they\'re customers, colleagues, or friends. Keep everyone in the loop and watch relationships grow. Get started today!</string>
+    <string name="second_onboard_text">Reach your audience anywhere with UserList. Target users by their location effortlessly. Whether it\'s local or global, UserList helps you engage with users wherever they are. Try it out now!</string>
+    <string name="third_onboard_text">Organize your users hassle-free with UserList. Sort them by company for smooth management. Keep track of interactions and personalize experiences effortlessly. Join now and streamline your company\'s operations!</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="didn_t_have_an_account">Didn\'t have an account?</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="github_username">Github Username</string>
+    <string name="nik">NIK</string>
+    <string name="user_image">User Image</string>
+    <string name="search_user_here">Search User Here!</string>
+    <string name="dot">•</string>
+    <string name="log_out">Log Out</string>
+</resources>
